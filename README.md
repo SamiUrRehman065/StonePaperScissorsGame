@@ -119,9 +119,9 @@ Then open `index.html` in your browser.
 
 ## 🧑‍💻 Author
 
-**Name:** Sami Ur Rehman
-**Location:** Karachi, Pakistan
-**GitHub:** [SamiUrRehman065](https://www.google.com/search?q=https://github.com/SamiUrRehman065)
+-**Name:** Sami Ur Rehman
+-**Location:** Karachi, Pakistan
+-**GitHub:** [SamiUrRehman065](https://www.google.com/search?q=https://github.com/SamiUrRehman065)
 
 -----
 
